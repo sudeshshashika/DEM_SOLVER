@@ -1,0 +1,3 @@
+/home/sudesh/Public/SummerSemester2022/DEM_SOLVER/CMakeFiles/rebuild_cache.dir
+/home/sudesh/Public/SummerSemester2022/DEM_SOLVER/CMakeFiles/edit_cache.dir
+/home/sudesh/Public/SummerSemester2022/DEM_SOLVER/CMakeFiles/DEM_SOLVER.dir
